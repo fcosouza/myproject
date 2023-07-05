@@ -3,7 +3,7 @@
 
 #MYPROJECT 
 
-Trata-se de uma simples aplicação, mostrando algumas formas de navegações:                                           
+Trata-se de uma simples aplicação utilizando expo, mostrando algumas formas de navegações:                                         
 -> Stack                                                                               
 -> Tab                                                                                           
 -> Drawer Navigator
